@@ -1,4 +1,4 @@
-package MyArraypackage;
+s`2dpackage MyArraypackage;
 
 public class LearningArray {
 
@@ -22,7 +22,7 @@ public class LearningArray {
 		
 		public static void LearningArray() {
 		
-		String [] Countries = new String [] {"Nepal", "Bhutan", "USA", "Italy", "Brazil", "Canada", "India", "China", "panama","peru"};
+		String [] Countries = new String [] {"Nepal", "Bhutan", "USA", "Italy", "Brazil", "Canada", "India", "China", "panama","peru,mexico,Peru, Nizeria "};
 		
 		//printing the first value of Array
 		System.out.println(Countries[0]);
